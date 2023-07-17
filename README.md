@@ -24,7 +24,7 @@
 - ⚡ Fun fact **I am a freelancer.**
 
 <h3 align="left">Connect with me:</h3>
-<p><a href="https://www.buymeacoffee.com/buymeacoffee">
+<a href="https://www.buymeacoffee.com/buymeacoffee"/></a>
 <p align="left">
 </p>
 
