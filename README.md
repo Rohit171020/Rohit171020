@@ -24,6 +24,7 @@
 - ⚡ Fun fact **I am a freelancer.**
 
 <h3 align="left">Connect with me:</h3>
+<a href = "https://www.linkedin.com/in/rohit-gupta-16a964200/">
 <p align="left">
 </p>
 
